@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?><html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:onlyLocalStylesheets="False" MadCap:searchable="False" class="home-topic" style="mc-master-page: url('Resources/TemplatePages/Home-Page.flmsp');" MadCap:conditions="Default.PrintOnly" xml:space="preserve">
+    <head>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body class="home-topic">
+        <div class="home-section">
+            <h1>砻קยด1ตว融</h1>
+            <p>砻קยด2ตว融</p>
+            <p class="created-using-flare">砻קยด3ตว融</p>
+        </div>
+        <div class="home-section">
+            <h1>砻קยด4ตว融</h1>
+            <MadCap:dropDown>
+                <MadCap:dropDownHead>
+                    <MadCap:dropDownHotspot>砻קยด5ตว融</MadCap:dropDownHotspot>
+                </MadCap:dropDownHead>
+                <MadCap:dropDownBody>
+                    <p>砻קยด6ตว融</p>
+                </MadCap:dropDownBody>
+            </MadCap:dropDown>
+            <MadCap:dropDown>
+                <MadCap:dropDownHead>
+                    <MadCap:dropDownHotspot>砻קยด7ตว融</MadCap:dropDownHotspot>
+                </MadCap:dropDownHead>
+                <MadCap:dropDownBody>
+                    <p>砻קยด8ตว融</p>
+                </MadCap:dropDownBody>
+            </MadCap:dropDown>
+            <MadCap:dropDown>
+                <MadCap:dropDownHead>
+                    <MadCap:dropDownHotspot>砻קยด9ตว融</MadCap:dropDownHotspot>
+                </MadCap:dropDownHead>
+                <MadCap:dropDownBody>
+                    <p>砻קยด10ตว融</p>
+                </MadCap:dropDownBody>
+            </MadCap:dropDown>
+        </div>
+        <div class="home-section">
+            <h1>砻קยด11ตว融</h1>
+            <div class="quick-links">
+                <div>
+                    <p>
+                        <img src="Resources/Images/Icon-PDFs.png" />
+                    </p>
+                    <p>砻קยด12ตว融</p>
+                </div>
+                <div>
+                    <p>
+                        <img src="Resources/Images/Icon-Videos.png" />
+                    </p>
+                    <p>砻קยด13ตว融</p>
+                </div>
+                <div>
+                    <p>
+                        <img src="Resources/Images/Icon-Download.png" />
+                    </p>
+                    <p>砻קยด14ตว融</p>
+                </div>
+                <div>
+                    <p>
+                        <img src="Resources/Images/Icon-Popular-Topics.png" />
+                    </p>
+                    <p>砻קยด15ตว融</p>
+                </div>
+                <div>
+                    <p>
+                        <img src="Resources/Images/Icon-Forum.png" />
+                    </p>
+                    <p>砻קยด16ตว融</p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

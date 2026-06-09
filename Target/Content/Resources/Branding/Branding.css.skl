@@ -1,0 +1,17 @@
+/*<meta />*/
+
+/* MadCap-Branding applanguage:Templates/Projects/Online/Tripane/ */
+
+:root
+{
+	--Primary: #076685;
+	--Secondary: #CDE0E7;
+	--Dark: #45494C;
+	--Darkest: #000000;
+	--Light: #DADEE1;
+	--Lightest: #FFFFFF;
+	--Medium: #A4AAAE;
+	--FontFamily: Arial, Avenir, Myriad;
+	--LogoImage: url('../Images/Logo.png');
+}
+
