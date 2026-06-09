@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<LingoProject flattenSnippets="false" SelectedTarget="" TargetLanguage="es" xml:lang="es" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="12">
+<LingoProject flattenSnippets="false" SelectedTarget="" TargetLanguage="km-kh;es" xml:lang="km-kh" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="12">
     <ProjectFile Source="Target/Flare-1.flprj" Target="Target/Flare-1.flprj" />
 </LingoProject>
